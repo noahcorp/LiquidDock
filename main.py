@@ -8,7 +8,7 @@ from PyQt6.QtWidgets import (QApplication, QWidget, QVBoxLayout, QPushButton,
 from PyQt6.QtCore import Qt, QFileInfo, QSize
 
 CONFIG_FILE = "dock_config.json"
-GITHUB_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1"
+GITHUB_URL = "https://github.com/noahcorp/LiquidDock?tab=readme-ov-file"
 
 class GlassDock(QWidget):
     def __init__(self):
@@ -223,3 +223,4 @@ if __name__ == '__main__':
     dock = GlassDock()
     dock.show()
     sys.exit(app.exec())
+
