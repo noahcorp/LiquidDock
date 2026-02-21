@@ -7,3 +7,4 @@
 
 Pour convertir le programme en fichier .exe, ouvrez une invite de commande, puis exécutez la commande suivante :
 pyinstaller --noconsole --onefile --name="LiquidDock" main.py
+<img width="1920" height="1080" alt="responsive app" src="https://github.com/user-attachments/assets/ac162ed1-2f6c-421a-ba50-50dadfcca855" />
